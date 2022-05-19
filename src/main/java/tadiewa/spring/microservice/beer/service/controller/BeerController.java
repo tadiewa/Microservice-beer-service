@@ -5,8 +5,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import tadiewa.spring.microservice.beer.service.web.model.BeerDto;
+import java.util.*;
 
-import java.util.UUID;
 
 @RequestMapping("api/v1/beer")
 @RestController
