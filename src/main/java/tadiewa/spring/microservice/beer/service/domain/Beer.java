@@ -1,4 +1,4 @@
-package tadiewa.spring.microservice.beer.service.model;
+package tadiewa.spring.microservice.beer.service.domain;
 
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
